@@ -8,6 +8,7 @@ public class test {
 	 public static void main(String[] args) throws Exception {
 	        String filePath = "F:\\nationwide\\ftp\\haze";
 	       System.out.println(latestFielDate(filePath));
+		 //测试代码
 	 }
 	 
 	 /**
